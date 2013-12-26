@@ -3,7 +3,7 @@ bootcamp-resources
 
 ### abandoned
 
-This is a repository of helpful resources for learning advanced JavaScript concepts
+~~This is a repository of helpful resources for learning advanced JavaScript concepts~~
 
 To submit a resource, edit this README markdown file following existing conventions of information hierarchy, then submit a pull request. I will merge it in! The only documents that should be sumbitted here are something that *helped* you. Not something that challenged you or a 'cool resource you'll check out later'. Something that _helped_.
 
